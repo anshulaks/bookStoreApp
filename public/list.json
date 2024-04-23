@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "The Tale of the Tortoise",
+        "price": 4.95,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1713787127~exp=1713790727~hmac=f388ee5d3f8fbf078f2bab8055473486b5047de39e3a78dc5d26d66411986968&w=740"
+
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title": "Malise",
+        "price": 22.95,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1713787127~exp=1713790727~hmac=f388ee5d3f8fbf078f2bab8055473486b5047de39e3a78dc5d26d66411986968&w=740"
+
+    },
+    {
+        "id":3,
+        "name":"Fictional ",
+        "title": "Dune",
+        "price": 99,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1713787127~exp=1713790727~hmac=f388ee5d3f8fbf078f2bab8055473486b5047de39e3a78dc5d26d66411986968&w=740"
+
+    },
+    {
+        "id":4,
+        "name":"Food Book ",
+        "title": "Pizza",
+        "price": 45,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149342941.jpg?t=st=1713787127~exp=1713790727~hmac=f388ee5d3f8fbf078f2bab8055473486b5047de39e3a78dc5d26d66411986968&w=740"
+
+    }
+
+
+]
